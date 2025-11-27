@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^github:Jeliostarr/DEV-Baileys#main",
+    "@whiskeysockets/baileys":"npm:wileys",
     "maher-zubair-baileys": "^6.6.5",
     "fs-extra": "^11.3.0",
     "node-fetch": "^2.6.1",
